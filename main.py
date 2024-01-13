@@ -1,6 +1,7 @@
 import random
 
 
+
 def input_validation(user_guess):
 
     if not user_guess.isdigit(): #str
